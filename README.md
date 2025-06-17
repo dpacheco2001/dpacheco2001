@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22976
-Fork on GitHub
-7715
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Diego Pacheco</h1>
 <h3 align="center">Fullstack developer specializing in generative AI and multi-agent systems using Java (Spring), Python, and frontend tools like React, Next.js, and Tailwind CSS.</h3>
 
